@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grave and learned speech of Serjeant-VVilde, (journeyman-judge to the House of Commons) made at a conference with the Lords, the twelv'th ot Aug. 1648. concerning the bayling of Major Rolphe, who endeavored to murther the King.</title>
+            <author>Wilde, John, 1590-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96497</idno>
+            <idno type="STC">Wing W2161</idno>
+            <idno type="STC">Thomason E461_25</idno>
+            <idno type="STC">ESTC R205191</idno>
+            <idno type="EEBO-CITATION">99864623</idno>
+            <idno type="PROQUEST">99864623</idno>
+            <idno type="VID">162179</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96497)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162179)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E461[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grave and learned speech of Serjeant-VVilde, (journeyman-judge to the House of Commons) made at a conference with the Lords, the twelv'th ot Aug. 1648. concerning the bayling of Major Rolphe, who endeavored to murther the King.</title>
+                  <author>Wilde, John, 1590-1669.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Imprinted, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug ye 31".</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Rolph, Edmund --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162179:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE Grave and Learned Speech OF SERJEANT-VVILDE,</hi> (Journeyman-Judge to the Houſe of Commons) made at a Conference with the Lords, the twelv'th of Aug. 1648. concerning the bayling of <hi>Major ROLPHE,</hi> who endeavored to murther the KING.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Imprinted, 1648.</p>
+            <pb facs="tcp:162179:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="3" facs="tcp:162179:2"/>
+            <head>The Speech it ſelfe.</head>
+            <p>I Am commanded by the Houſe of Commons to deſire your Lordſhips concurrence with them for the bay<g ref="char:EOLhyphen"/>ling of Major <hi>Rolphe,</hi> now priſoner in the Gate-houſe, which they conceive (and would have your Lordſhips beleeve) is an act not more of favor than of juſtice: Whether you conſider (as we doe) the quality of his perſon, or the Crime whereof he is accuſed: For by his impriſonment, not only his body is in great danger to be poyſoned with the hel<g ref="char:EOLhyphen"/>liſh ſmoake of Tobacco (wherein only deboiſh't drunkards delight) but his righteous-Soule alſo (like <hi>Lotts</hi> in <hi>Sodom)</hi> is vexed with the horrid blaſphemous oathes, and drinking of healths of the dam-me. Cavalieres, who for their Rebellion and Treaſon againſt the State, are there juſtly impriſoned. And ſurely, my Lords, in reaſon he ought to be bayled; whe<g ref="char:EOLhyphen"/>ther you looke upon him as a man, and a Souldier, whoſe life ought not to be neglected, or as a new-Chriſtian, of whoſe precious Soule there ought to be a due regard; both which (to ſay truth he hath ventred for the good of the Re-publique and the preſervation of all us who have the honour to ſit here this day, for the good of our <hi>
+                  <g ref="char:V">Ʋ</g>topia:</hi> And who can tell, if he ſhould come to a legall-tryall, how many of us hee might accuſe as abettors of the intended Act? But it may bee obje<g ref="char:EOLhyphen"/>cted, That the world takes notice of the Crime, and that therefore (though we know that ſome of your Lordſhips are of our minde even in this particular) it would bee ſcandalous to bayle a man for Treaſon againſt the perſon of the King: But (my Lords) I will as quickly remove that objection, as I did that of counterfeiting the great-Seale of <hi>England,</hi> and that briefly and in few words. If no King, then no Treaſon: And no doubt if thoſe Principles be true which wee have bor<g ref="char:EOLhyphen"/>rowed of the infallible chayre (as the children of <hi>Iſrael</hi> did
+<pb n="4" facs="tcp:162179:3"/> the Aegyptians jewels.) It is evident, that the perſon whom this worthy Gentleman is ſuppoſed would have murthered by poyſon or piſtoll (it is no matter whether) is no King; e<g ref="char:EOLhyphen"/>ſpecially being contrived while our votes for no Addreſſes to him were in force. Divers of the learned beyond the Sea (and ſome on this ſide too though not booke learn'd) hold; That if a King bee Excommunicate, hee is no longer a King, and that it is lawfull (at leaſt it is not Treaſon) to take him a<g ref="char:EOLhyphen"/>way. And if ſo (the validity of ſuch Excommunication be<g ref="char:EOLhyphen"/>ing from a forreigne-power, and leſſe inſpired) Then <hi>a for<g ref="char:EOLhyphen"/>tiori;</hi> if by us, and our Aſſembly, that have undoubted (though till now unknown) power and right: he that was an unprofitable King, bee for juſt cauſes (of which wee are the ſole Judges) deveſted of all power, (by the ſence of the two Houſes) Then, I ſay, hee is no King: But Wee con<g ref="char:EOLhyphen"/>junctly are King of <hi>England;</hi> (as Maſter <hi>Prynne</hi> and Maſter <hi>Parker</hi> by many learned, polite, and prolixe Treatiſes (ſeene and allowed by Maſter <hi>Saint-John</hi> our Sollicitor) have beene more then ſufficiently proved: How elſe could wee have hang'd <hi>Yeomans</hi> and <hi>Bourcher,</hi> who would have delivered up our City of <hi>Briſtoll:</hi> Or beheaded the two <hi>Hothams,</hi> who (upon ſecond fooliſh conſcientious Conſiderations) would have reſtored the Towne of <hi>Hull</hi> to the pretended owner: Or <hi>Carew,</hi> who would have delivered up <hi>Plymouth</hi> to the enemy: Or executed <hi>Tomkins</hi> and <hi>Challoner,</hi> who would have ſet on foote the Commiſſion of Aray, in <hi>London:</hi> Or to truſſe up <hi>Burleigh</hi> (not the leaſt of my ſervices) who would have re<g ref="char:EOLhyphen"/>ſcued the King from <hi>Cariſbrook-priſon:</hi> Or (to paſſe by many others) <hi>Kniveton,</hi> who came with the Kings-Writt to ad<g ref="char:EOLhyphen"/>journ the Terme: all whoſe Deſignes were only intentional, none acted: The leaſt of which wee neither could nor durſt have perpetrated had not the regall-Power reſided in Us; and if in Us, then certainly in none other: It being as mcuh a<g ref="char:EOLhyphen"/>gainſt common reaſon to thinke, that in regalitie; the King and Parliament both have power, as to ſay that <hi>Monarchy</hi> and <hi>Anarchy</hi> are, or can be, <hi>ſimul &amp; ſemel</hi> in one Kingdom. And this I ſpeake as a Lawyer, being ſo by inheritance, my Father (though not of ſo publique a Spirit) being ſo before
+<pb n="5" facs="tcp:162179:3"/> mee. Yet hee never was a Judge, as I have beene both at <hi>Wincheſter</hi> and <hi>Canterbury</hi> as your Lordſhips, well know. And why may not I bee heire to my fathers Law, as well as the Citizens ſonnes of <hi>London</hi> (though they have no skill in their fathers trade or Profeſſion) be made free by their fathers Copie.</p>
+            <p>Beſides (My Lords) againſt this Gentleman there is a bare accuſation, or impeachment, and that only by two priſoners, whoſe teſtimonies in all circumſtances agree not; for I am ſure there is great difference in their hand writings (a point wor<g ref="char:EOLhyphen"/>thy your Lordſhips conſideration) But ſuppoſe they agreed both in circumſtance and ſubſtance; ſhall the teſtimony of two ſuch men condemne ſo well deſerving a man for a few fooliſh ſuppoſed Treaſonable words, or intentions, and but againſt a titular King? for wee are King in effect; wee Judges of the Law, he our priſoner.</p>
+            <p>Let us not (My Lords) give way to ſuch a credulity. It may concerne both your Lordſhips and us very much to bee well adviſed before wee reſolve any thing to bee Treaſon<g ref="char:punc">▪</g> acted againſt his perſon. If what, not only two but two thouſand (and I may ſay twenty thouſand more) doe daily and hourly ſay (and would ſweare) concerning us, ſhould bee believed: Lord what ſhould become of us? many thouſands men and woemen, now being bold to ſay: <hi>That all wee of this righte<g ref="char:EOLhyphen"/>ous, bleſſed, and reforming Parliament are Rebells, and Tray<g ref="char:EOLhyphen"/>tors: Nay that wee are no Parliament, but a Junto of Factious, ambitious, ſelfe-ſeeking, and covetous men; whereof more then the one halfe ſit there illegally, and keepe honeſter men out of their places. That all our Votes, Orders, and Ordinances (which are an unreaſonable number) are againſt reaſon, and the knowne Lawes of the Realme:</hi> And ſhall wee therfore believe them? if wee doe, then our owne Conſciences (which we have extended as far as may bee would condemne us.</p>
+            <p>And now (My Lords) if we neither doe, nor may with ſafety believe ſo many witneſſes againſt our ſelves (though wee know the matter true) why ſhould wee believe only two againſt a man who, for ought I know, is as honeſt as any of us? Nay (My Lords) I will go further yet and affirm; That if a Jury
+<pb n="6" facs="tcp:162179:4"/> of 12. men ſhould condemne him; yet in point of diſcretion, &amp; reaſon of ſtate, we may and ought not only to baile this ver<g ref="char:EOLhyphen"/>tuous Gentleman, but alſo to releaſe and ſet him free.</p>
+            <p>And for this wee have a preſident within the memory of man, and it was of an honourable Gentleman, and a true <hi>Na<g ref="char:EOLhyphen"/>thaniel</hi> (whoſe father ſits among you) who was by a Coun<g ref="char:EOLhyphen"/>cell of Warre condemned to dy as a Coward, for ſurrendring up of a Towne which was thought tenable, and yet hee was ſet at liberty and liveth; <hi>Vivit, imò vivit, &amp; in Senatum venit,</hi> as it was very eloquently urged in as honeſt a mans caſe by <hi>Tully,</hi> who (though no bencher of the inner Temple) under<g ref="char:EOLhyphen"/>ſtood the Lawes of England as well as my ſelfe. And I dare bee bold to ſay, that there were more than two witneſſes, to prove his guilt of the fact; and thoſe of better qualitie then theſe, and that they which found him culpable, were men of as much honeſty, and more judgement, then our ordinary Jurors, who for the moſt part (except ſome ſuch as I found at <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> where they would find me nothing but an <hi>Ignoramus)</hi> will give their verdict, as wee the Judges in our wiſdomes (Whatſoever the Law is) ſhall direct them. And laſtly that thoſe Judges were as honeſt men as any which we ſhall (now) ſende to judge this Gentleman; if wee ſhould (which were injurious) ſuffer him to bee tryed.</p>
+            <p>Moreover, if that noble gentleman before mentioned, were juſtly condemned, then his ſetting at libertie and pardon was unjuſt (Unleſſe by us having <hi>poteſtatem vitae &amp; necis)</hi> but <hi>de facto</hi> hee was ſet at libertie, pardoned, and lives in as much honour and reputation as ever hee did. And it muſt bee pre<g ref="char:EOLhyphen"/>ſumed that the two houſes (who are infallible in their judge<g ref="char:EOLhyphen"/>ments) did not erre in ſo doing. And if the King, when a King, and as a King by the judgment of the Law can doe no wrong, much leſſe can wee being 500. Kings, and have all the power hee had, and more.</p>
+            <p>But may ſome ſay, (and no doubt but ſome will be ſo ma<g ref="char:EOLhyphen"/>litious) why ſhould Major <hi>Rolfe</hi> bee ſo much troubled at the ſmell of Tobacco having all other good accommodations, hee being a man of ſo meane an education and occupation till within theſe few yeares that wee imploid men of all ſorts,
+<pb n="7" facs="tcp:162179:4"/> Trades and opinions in the forming of our Armies, and for reformation of Religion; and ſince bred up in the Warres which might have enured him to ſo much hardneſſe as that the ſmell of Tobacco ſhould no more have offended him now, then that of Shooe-makers wax, or Leather new come from the Curriers did then.</p>
+            <p>My Lords; It is true hee was by his profeſſion a Shooe-makers Apprentice, and ſo was his maſter <hi>Philpit</hi> too, who was a while a Captaine, but for his lives ſecurity went away at the firſt battaile, which had hee not done he might by this time have beene a Collonell, as well as his man a Major. But my Lords what's that to the purpoſe? wee know that Tobacco is nought, though the King never take any; His foot muſt not bee now meaſured by the old laſt. And as the old proverb tells us; honours change manners. Was not <hi>Cato</hi> taken from the plow to the Senate? and yet it was never objected to him as any point worthy reproach, and ſome of us (who are not of the greateſt ranke of gentry, nor very great Clearks) have read (or at leaſt heard) of a King, whoſe father was a Potter for which cauſe hee did all his life time after, eate his meate in earthen diſhes, and is no more diſhonour to him, then to ſome pure ſeraphicall Members of our houſe to have beene <hi>Weavers,</hi> and <hi>Vinegar-men.</hi> And therefore wee hope, and de<g ref="char:EOLhyphen"/>ſire, notwithſtanding theſe objections, or any thing elſe that is, or can, or ſhall bee ſaid, or proved againſt him. That (if your Lordſhips will not thinke fit to reward him for his me<g ref="char:EOLhyphen"/>ritorious intententions) yet that you will concurre with the houſe of Commons to bayle him; which if your Lordſhips ſhall not aſſent to, wee doubt not but wee know where to have a Juſtice of peace, &amp; <hi>Quor.</hi> that will. And for the time to come wee hope that the ſame providence which hath hitherto beyond all humane expectation kept us in our ſeverall ſtations, will ſo unite our hearts that wee ſhall ſit all together in a bleſſed Union, in our houſe, and ſave much of that Labour which hath hitherto beene ſpent in Conference.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
